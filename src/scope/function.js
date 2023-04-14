@@ -1,5 +1,5 @@
 function greetings() {
-    var userName = 'John';//local variable
+    let userName = 'John';//local variable
     console.log(userName);
 
     if (userName === 'John'){
